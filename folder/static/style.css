@@ -1,0 +1,80 @@
+
+
+header{
+	padding:0px;
+	margin:0px;
+	display:block;
+background:url("https://res.cloudinary.com/digtjtru6/image/upload/e_blur:100/v1615141103/triangles-1430105_hwmwqw.png");
+width:100%;
+height:100vh;
+		
+		
+	
+}
+
+.Zagolovok{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	line-height: 94px;
+	border: 687px;
+	color: #FFFFFF;
+
+
+}
+
+.nav{
+	display:flex;
+	justify-content:space-between;
+	align-items: center;
+	
+	margin-left: 250px;
+}
+li{
+	margin-right:160.24px;	
+	list-style-type: none;
+}
+ul{
+	display:flex;
+	
+}
+.nav_a{
+	color:black;
+	text-decoration:none;
+	font-size:18px;
+	font-family: 'Montserrat', sans-serif; 
+	font-style:normal;
+	font-weight:normal;
+}
+.Home_text{
+	margin-top: 100px;
+	margin-left: 250px;
+	display: flex;
+	align-items: center;
+
+}
+#Marth{
+	right: 0;
+	z-index: 999;
+	position: absolute;
+}
+.pres{
+	font-family: 'Montserrat', sans-serif; 
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    color: #FFFFFF;
+
+}
+h2{
+	font-family: 'Roboto', sans-serif; 
+	color: #FFFFFF;
+}
+section{
+	background-color: #FF1493;
+}
+footer{
+	background-color: #C71585;
+}
