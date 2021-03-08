@@ -1,7 +1,7 @@
 from flask import Flask, redirect, render_template
 # from DataBase import mongo
 
-app = Flask(__name__, template_folder='C:/Users/MadRock/PycharmProjects/adminpanelEVEconomy/templates', static_folder='')
+app = Flask(__name__, template_folder='C:/Users/MadRock/PycharmProjects/adminpanelEVEconomy/templates')
 # app.config['MONGO_URI'] = 'mongodb+srv://MadRock:MadRock221mongodb@eveconomy.ap1ge.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 #
 # mongo.init_app(app)
